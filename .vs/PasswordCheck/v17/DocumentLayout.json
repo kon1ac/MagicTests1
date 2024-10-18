@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\PasswordCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6185A3DA-DE2C-4A1F-8E7C-3280653D4F21}|PasswordCheck\\PasswordCheck.csproj|c:\\users\\kostu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0433\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\passwordcheck\\passwordcheck\\passcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6185A3DA-DE2C-4A1F-8E7C-3280653D4F21}|PasswordCheck\\PasswordCheck.csproj|solutionrelative:passwordcheck\\passcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B8A101-F80C-4F3B-BBB6-A0B0123EE370}|PasswordCheck.Tests\\PasswordCheck.Tests.csproj|c:\\users\\kostu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0433\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\passwordcheck\\passwordcheck.tests\\passchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B8A101-F80C-4F3B-BBB6-A0B0123EE370}|PasswordCheck.Tests\\PasswordCheck.Tests.csproj|solutionrelative:passwordcheck.tests\\passchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassCheckTests.cs",
+              "DocumentMoniker": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\PasswordCheck\\PasswordCheck.Tests\\PassCheckTests.cs",
+              "RelativeDocumentMoniker": "PasswordCheck.Tests\\PassCheckTests.cs",
+              "ToolTip": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\PasswordCheck\\PasswordCheck.Tests\\PassCheckTests.cs",
+              "RelativeToolTip": "PasswordCheck.Tests\\PassCheckTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:07:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassCheck.cs",
+              "DocumentMoniker": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\PasswordCheck\\PasswordCheck\\PassCheck.cs",
+              "RelativeDocumentMoniker": "PasswordCheck\\PassCheck.cs",
+              "ToolTip": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\PasswordCheck\\PasswordCheck\\PassCheck.cs",
+              "RelativeToolTip": "PasswordCheck\\PassCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:06:50.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
